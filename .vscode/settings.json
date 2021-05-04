@@ -1,0 +1,6 @@
+{
+    "go.addTags": {
+        "options": "",
+        "transform": "camelcase"
+    }
+}
